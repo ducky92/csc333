@@ -1,7 +1,7 @@
 # CSC 333 -- Homework 4 -- Stack machine interpreter
 # Time-stamp: <2014-10-21 21:04:52 shade>
 # Author/s: Dr. Eric Shade
-#		    Zach Metcalf
+#           Zach Metcalf
 
 # Your job is to complete the 'runvm' function. Don't change any of
 # the other code. I will test your program using the 'run' function,
