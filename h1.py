@@ -1,7 +1,7 @@
 # CSC 333 - Spring 2015 - Homework 1
 # Time-stamp: <2015-01-22 12:52:03 shade>
 # Author/s: Dr. Eric Shade
-#		    Zach Metcalf
+#           Zach Metcalf
 
 # Complete all of the following functions. Currently they all just
 # 'pass' rather than explicitly return a value, which means that they
