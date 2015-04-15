@@ -1,4 +1,4 @@
-
+# Author/s: Zach Metcalf
 def size(ds):
     """
     Returns the total size of a data structure ds

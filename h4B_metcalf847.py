@@ -1,3 +1,5 @@
+# Author/s: Zach Metcalf
+# Test cases for h4A_metcalf847.py
 >>> run('125 5 / W')
 '25'
 >>> run('50 5 | W')

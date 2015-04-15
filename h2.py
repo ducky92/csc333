@@ -1,3 +1,5 @@
+# Author/s: Zach Metcalf
+
 M = [ {'a':{1,2}},            # state 0
       {'b':{0}},              # state 1
       {'':{3}, 'a':{2}},      # state 2

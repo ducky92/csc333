@@ -1,5 +1,7 @@
 # CSC 333 -- Recursive-descent proposition classifier
 # Time-stamp: <2015-02-19 12:27:42 shade>
+# Author/s: Dr. Eric Shade
+#		    Zach Metcalf
 
 import re
 
